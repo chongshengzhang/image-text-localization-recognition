@@ -6,6 +6,14 @@ https://github.com/whitelok/image-text-localization-recognition/commit/9026515f6
   
   #### 2018
   
+  
+  B. Shi, M. Yang, X. Wang, P. Lyu, C. Yao, X. Bai. ASTER: An Attentional Scene Text Recognizer with Flexible Rectification. IEEE Trans. on PAMI, accepted. [code]   
+  
+  http://cloud.eic.hust.edu.cn:8071/UpLoadFiles/Papers/ASTER_PAMI18.pdf
+  
+  https://github.com/bgshih/aster
+  
+  
  +- [2018-CVPR][STL] Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation [`paper`]
  
  (http://openaccess.thecvf.com/content_cvpr_2018/papers/Lyu_Multi-Oriented_Scene_Text_CVPR_2018_paper.pdf)
